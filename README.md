@@ -1,5 +1,9 @@
-### Hi there 👋
+### This is Robert Blakeney's GitHub Page!
 
+
+- Currently studying Computer Science at University of Plymouth.
+- Currently learning: VR development, Games design and AI.
+- Gaming in spare time.
 <!--
 **RobertBlakeney/RobertBlakeney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
